@@ -1,5 +1,6 @@
 # blooket-hack
 thanks to rxyzy
+https://github.com/rxzyx/Blooket-Hacks
 
 Add Tokens and XP - Collect the maximum Tokens and XP currently availible.
 All Answers Correct - Always have all the answers correct, no matter what.
