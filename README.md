@@ -1,15 +1,5 @@
 # blooket-hack
 thanks to rxyzy
-How To Use:
-Desktop:
-Open the file you find interesting.
-Use the copy button on the file, or click "Raw" and copy it all.
-Open the Inspect tool.
-Switch to the Console.
-Paste the script.
-Click enter.
-Features:
-Default Scripts:
 
 Add Tokens and XP - Collect the maximum Tokens and XP currently availible.
 All Answers Correct - Always have all the answers correct, no matter what.
